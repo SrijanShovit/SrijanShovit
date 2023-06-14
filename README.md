@@ -10,15 +10,15 @@ Web3 Lover
 
 
 
-I am a tech enthusiast who loves to explore new technologies and at the same time help others learn. I am a problem solver, competitive programmer, mentor, motivator. I have been also a student developer working with several teams and communities. I have explored several domains like Machine Learning, App development, Website development, Cloud Computing ,DevOps, Blockchain and UI /UX. I am very enthusiastic about teaching others because I believe in sharing my knowledge and learning by teaching.*
+I am a tech enthusiast who loves to explore new technologies and at the same time help others learn. I have been also a student developer working with several teams and communities. I have explored several domains like Machine Learning, App development, Website development, Cloud Computing ,DevOps, Blockchain and UI /UX. I am very enthusiastic about teaching others because I believe in sharing my knowledge and learning by teaching.*
 
-🌍  I'm based in Patna, India* 
+🌍  I'm based in Patna, India
 
-✉️  You can contact me at [srijanshovit@gmail.com](mailto:srijanshovit@gmail.com)* 
+✉️  You can contact me at [srijanshovit@gmail.com](mailto:srijanshovit@gmail.com)
 
-🧠  I'm learning Solana, Near, Flow* 
+🧠  I'm learning Solana, Near, Flow
 
-🤝  I'm open to collaborating on any challenging web3 project* 
+🤝  I'm open to collaborating on any challenging web3 project
 
 ⚡  I'm too unstable to stop....!!
 
