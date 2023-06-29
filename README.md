@@ -16,7 +16,7 @@ I am a tech enthusiast who loves to explore new technologies and at the same tim
 
 ✉️  You can contact me at [srijanshovit@gmail.com](mailto:srijanshovit@gmail.com)
 
-🧠  I'm learning Solana, Near, Flow
+🧠  I'm working at Texas Instruments, Bangalore
 
 🤝  I'm open to collaborating on any challenging web3 project
 
