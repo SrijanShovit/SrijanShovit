@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on DrillWell<br>👯 I'm looking to collaborate on Competitive Programming hustle<br>🤝 I'm looking for help with peer study for Computer Networks<br>🌱 I'm currently learning Deep Learning<br>💬 Ask me about Data Structures and Algorithms, Development stuffs and Database Management Systems<br>⚡ Fun fact : I have a high entropy to land into low entropy🏏
+🔭 I'm currently working on Om Sanatan Blogs and Health Learning<br>👯 I'm looking to collaborate on Competitive Programming hustle<br>🤝 I'm looking for help with peer study for Computer Networks<br>🌱 I'm currently learning Deep Learning<br>💬 Ask me about Data Structures and Algorithms, Development stuffs and Database Management Systems<br>⚡ Fun fact : I have a high entropy to land into low entropy🏏
 
 
 ## 🌐 Socials:
